@@ -98,9 +98,7 @@
   transform: rotate(45deg);
   border-width: 2px;
   border-style: solid;
-  border-color: #fff;
-  border-top: 0;
-  border-left: 0; }
+  border-color: #fff;}
 
 .magic-checkbox:checked + label:before {
   border: #3e97eb;
